@@ -6,6 +6,10 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q4 2025
+* [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) (University of California, Santa Cruz), Ironwright: A Bridge from Bounded Model Checking to Full Verification
+* [Pedro Branco](https://sites.google.com/view/pmbranco), IE University, New Routes for Post-Quantum Threshold Cryptography
+
 ## Q3 2025
 * [Nir Bitansky](https://sites.google.com/view/nirbitansky) (NYU), Dot-Product Proofs: Toward Optimal Succinctness
 * [Suyash Gupta](https://gupta-suyash.github.io/) (U. Oregon), Efficient Historical (Range) Queries for Stellar
