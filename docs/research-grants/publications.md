@@ -6,6 +6,10 @@ slug: /research-grants/publications
 
 # Publications supported (in part or whole) by SDF funding
 
+Abtin Afshar and Rishab Goyal. "Fully-Succinct Multi-Key FHE & Rate-1 Simulatable Threshold Decryption from LWE". CRYPTO 2026
+
+Foteini Baldimtsi, Rishab Goyal, Aayush Yadav. "Batched & Non-interactive Blind Signatures from Lattices". PKC 2026
+
 Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, and Ilya Sergey. "Foundational Multi-Modal Program Verifiers." Proceedings of the ACM on Programming Languages (PACMPL). 2026. https://doi.org/10.1145/3776719
 
 George Pîrlea, Vladimir Gladshtein, Elad Kinsbruner, Qiyuan Zhao, and Ilya Sergey. "Veil: A Framework for Automated and Interactive Verification of Transition Systems". CAV 2025. https://link.springer.com/chapter/10.1007/978-3-031-98682-6_2
