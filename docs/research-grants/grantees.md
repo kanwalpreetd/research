@@ -9,6 +9,7 @@ slug: /research-grants/grantees
 ## Q4 2025
 * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) (University of California, Santa Cruz), Ironwright: A Bridge from Bounded Model Checking to Full Verification
 * [Pedro Branco](https://sites.google.com/view/pmbranco), IE University, New Routes for Post-Quantum Threshold Cryptography
+* [Qiang Tang](https://alkistang.github.io/) and [Sri AravindaKrishnan Thyagarajan](https://sites.google.com/view/sak-thyagarajan) ([The University of Sydney](https://www.sydney.edu.au/)), Enabling Scalable Threshold Cryptography For Federated Settings
 
 ## Q3 2025
 * [Nir Bitansky](https://sites.google.com/view/nirbitansky) (NYU), Dot-Product Proofs: Toward Optimal Succinctness
