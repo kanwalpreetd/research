@@ -10,7 +10,7 @@ slug: /publications
 
 Qianyu Yu, Giuliano Losa, Nibesh Shrestha, and Xuechao Wang. ["Angelfish: Leader, DAG, or Anywhere in Between"](https://arxiv.org/abs/2509.15847). To appear in *CCS 2026*.
 
-Joseph Tafese, Karthik Nukala, Hassen Saidi, Natarajan Shankar, Arie Gurfinkel, and Giuliano Losa. "Show Me The Money: An Exercise in Proof-Driven Software Understanding". To appear in [CAV 2026](https://conferences.i-cav.org/2026/).
+Joseph Tafese, Karthik Nukala, Hassen Saidi, Natarajan Shankar, Arie Gurfinkel, and Giuliano Losa. ["Show Me The Money: An Exercise in Proof-Driven Software Understanding"](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_11). In *Computer Aided Verification ([CAV 2026](https://conferences.i-cav.org/2026/))*.
 
 Vivien Bammert, Annalisa Cimatti, Orestis Alpos, Giuliano Losa, and Christian Cachin. ["Monotone Erasure Codes"](https://arxiv.org/abs/2605.22426). To appear in [IEEE Information Theory Workshop (ITW 2026)](https://2026.ieee-itw.org/).
 
